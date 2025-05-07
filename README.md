@@ -4,7 +4,7 @@ I'm a passionate and adaptable software developer currently pursuing a B.S. in C
 
 ## 💼 Experience
 
-### Software Engineering Intern — FivesConsulting (2024 – Present)
+### Software Engineering Intern — FivesConsulting (Sep 2024 - Feb 2025)
 - Collaborated with 18+ companies to design and implement tailored ERP solutions.
 - Optimized database performance by 15% through custom stored procedures.
 - Developed and deployed a WhatsApp microservice bot used by 10,000+ clients monthly for real-time purchase updates.
